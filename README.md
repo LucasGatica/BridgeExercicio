@@ -1,6 +1,4 @@
-criar pasta Cores e pasta formas 
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c8747024-3e3b-4be3-98a8-0b06a1883b87/1fb2633c-7e6a-4a87-adb4-0b262b32aa24/image.png)
 
 **1. criar interface cor**
 
